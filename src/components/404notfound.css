@@ -1,0 +1,13 @@
+
+.na{
+    font-size:4000px
+}
+.hero-image {
+    background-image: url("/public/images/audi.png");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
