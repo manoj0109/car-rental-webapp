@@ -85,7 +85,7 @@ const Dashboard = () => {
             <div class='col-sm-3'>
               <div class='card shadow m-2'>
                 <div class='card-body p-3'>
-                  <img src="" alt="" />
+                  <img src="/dash/bk.png" alt="" />
                   <Link to='/bookings'><h2>Bookings</h2></Link>
                   <h2>{data?.bookings}</h2>
                 </div>

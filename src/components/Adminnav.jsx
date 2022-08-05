@@ -56,7 +56,7 @@ const AdminNav = () => {
                 Logout
               </Link>
               <div className='dropdown-divider' />
-              <Link
+              {/* <Link
                 to='#'
                 data-target='#changepwd'
                 data-toggle='modal'
@@ -64,7 +64,7 @@ const AdminNav = () => {
               >
                 <i className='fas fa-key mr-2' />
                 Change Password
-              </Link>
+              </Link> */}
             </div>
           </li>
         </ul>
