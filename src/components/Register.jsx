@@ -28,6 +28,7 @@ const Register = () => {
     if (test) {
 
       if (user.pwd != user.cpwd) {
+
         toast.error('Password not match with confirm')
       } else {
         axios
